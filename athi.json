@@ -1,8 +1,7 @@
 {
-  "authorized_ip": "170.80.66.1a5",
-  "store_name": "Minha Loja Fivem",
-  "store_link": "https://minhaloja.com",
-  "discord": "MeuDiscord#1234"
-
+  "Base": {
+    "lt": [
+      "lic-lt-0025-OOS15ADIU"
+    ]
+  }
 }
-
